@@ -1,0 +1,3 @@
+echo Publishing package ...
+
+.\nuget.exe push Bootstrap-Lightbox.NuGet.5.1.1.nupkg

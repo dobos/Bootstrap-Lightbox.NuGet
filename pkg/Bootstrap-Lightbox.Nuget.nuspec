@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Bootstrap-Lightbox.NuGet</id>
+    <version>5.1.1</version>
+    <authors>Ashley White</authors>
+    <owners></owners>
+    <licenseUrl>https://github.com/ashleydw/lightbox/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://ashleydw.github.io/lightbox/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Utilizes Bootstraps modal plugin to implement a lightbox gallery.</description>
+    <releaseNotes>Update for Bootstrap 4, Alpha 6, Backwards compatibility with Bootstrap 3</releaseNotes>
+    <copyright>Released under MIT license</copyright>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
